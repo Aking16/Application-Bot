@@ -1,0 +1,23 @@
+{
+	"name": "discord-application-bot",
+	"version": "1.0.0",
+	"description": "A custom application bot for discord.",
+	"main": "index.js",
+	"dependencies": {
+		"discord.js": "^12.5.3"
+	},
+	"devDependencies": {},
+	"scripts": {
+		"bot": "node index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Aking16/Application-Bot.git"
+	},
+	"author": "Aking",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/Aking16/Application-Bot/issues"
+	},
+	"homepage": "https://github.com/Aking16/Application-Bot#readme"
+}
